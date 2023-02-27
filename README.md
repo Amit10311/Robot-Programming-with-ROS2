@@ -11,3 +11,9 @@ Introduction to Robot Programming with ROS2
 • Topic and Service name mapping to DDS : https://design.ros2.org/articles/topic_and_service_names.html
 
 • ROS 2 Design : https://design.ros2.org/
+
+Any client library for another language (Rust , Go , Java ) 
+
+* https://github.com/ros2-rust/ros2_rust 
+
+* https://github.com/ros2-java/ros2_java
