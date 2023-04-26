@@ -23,6 +23,5 @@ Any client library for another language (Rust , Go , Java )
 ## Papers related to ROS2 
 
 1. ROSGPT: ChatGPT Interface for ROS2 for Human-Robot Interaction
- 
- * `Code :` https://github.com/aniskoubaa/rosgpt/
- * `Citation:` Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS.
+   * `Code :` https://github.com/aniskoubaa/rosgpt/
+   * `Citation:` Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS.
